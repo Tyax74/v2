@@ -1,1 +1,7 @@
-2021.08.10.
+1. fájl szerkeszt
+2. fájl ment
+3. /git status
+4. /git add fáljnév vagy /git add .
+5. /git commit -m "megjegyzés"
+6. /git pull
+7. /git push
